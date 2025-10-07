@@ -20,7 +20,7 @@ require (
 	github.com/google/uuid v1.6.0
 	github.com/jackc/pgx/v5 v5.7.6
 	github.com/kelseyhightower/envconfig v1.4.0
-	github.com/kubev2v/forklift v0.0.0-20250929181142-84ea7fdf4433
+	github.com/kubev2v/forklift v0.0.0-20251005154208-584ac5d3383b
 	github.com/libvirt/libvirt-go v7.4.0+incompatible
 	github.com/lthibault/jitterbug v2.0.0+incompatible
 	github.com/minio/minio-go/v7 v7.0.95
@@ -141,7 +141,7 @@ require (
 	github.com/mohae/deepcopy v0.0.0-20170929034955-c48cc78d4826 // indirect
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
 	github.com/oklog/ulid v1.3.1 // indirect
-	github.com/openshift/api v0.0.0-20250926020921-1517fca97fe3 // indirect
+	github.com/openshift/api v0.0.0-20251002150504-230d0e045316 // indirect
 	github.com/openshift/client-go v0.0.0-20250922201106-dd37bfd2e597 // indirect
 	github.com/openshift/custom-resource-status v1.1.2 // indirect
 	github.com/pelletier/go-toml/v2 v2.2.4 // indirect
@@ -178,7 +178,7 @@ require (
 	go.opentelemetry.io/auto/sdk v1.2.1 // indirect
 	go.opentelemetry.io/otel v1.38.0 // indirect
 	go.opentelemetry.io/otel/metric v1.38.0 // indirect
-	go.opentelemetry.io/otel/sdk v1.36.0 // indirect
+	go.opentelemetry.io/otel/sdk v1.38.0 // indirect
 	go.opentelemetry.io/otel/trace v1.38.0 // indirect
 	go.uber.org/mock v0.6.0 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
@@ -186,14 +186,14 @@ require (
 	go.yaml.in/yaml/v3 v3.0.4 // indirect
 	golang.org/x/arch v0.21.0 // indirect
 	golang.org/x/crypto v0.42.0 // indirect
-	golang.org/x/mod v0.27.0 // indirect
+	golang.org/x/mod v0.28.0 // indirect
 	golang.org/x/net v0.44.0 // indirect
-	golang.org/x/oauth2 v0.30.0 // indirect
+	golang.org/x/oauth2 v0.31.0 // indirect
 	golang.org/x/sync v0.17.0 // indirect
 	golang.org/x/sys v0.36.0 // indirect
 	golang.org/x/term v0.35.0 // indirect
 	golang.org/x/text v0.29.0 // indirect
-	golang.org/x/time v0.11.0 // indirect
+	golang.org/x/time v0.13.0 // indirect
 	golang.org/x/tools v0.36.0 // indirect
 	google.golang.org/protobuf v1.36.9 // indirect
 	gopkg.in/evanphx/json-patch.v4 v4.12.0 // indirect
